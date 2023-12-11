@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nizam+Chowdhury!;" />
 </h1>
 
-<h3 align="center">A junior web developer from Bangladesh.</h3>
+<h3 align="center">A junior Web Application Developer from Bangladesh.</h3>
  
 <div align="center"> 
   <a href="mailto:nizam.chy.cs@gmail.com">
@@ -41,4 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nizamchy&show_icons=true&locale=en" alt="nizamchy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nizamchy&" alt="nizamchy" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nizamchy&" alt="nizamchy" /></p>
