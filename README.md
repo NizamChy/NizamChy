@@ -44,6 +44,9 @@
     </a> </p>
 
 
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizamchy&theme=dark&layout=compact&align=right&width=40%)](https://github.com/nizamchy/github-readme-stats)
+
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default" alt="GitHub Profile Summary Cards">
 </p>
