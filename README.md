@@ -48,7 +48,12 @@
 </div>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default)
+<center>
+
+![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default)
+
+</center>
+
 
 
 <div align="center">
