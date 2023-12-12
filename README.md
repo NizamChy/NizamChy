@@ -48,11 +48,10 @@
 </div>
 
 
-<center>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default" alt="GitHub Profile Summary Cards">
+</p>
 
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default)
-
-</center>
 
 
 
