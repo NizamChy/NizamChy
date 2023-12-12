@@ -52,6 +52,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default" alt="GitHub Profile Summary Cards">
 </p>
 
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nizamchy&theme=transparent)](https://git.io/streak-stats)
+</p>
+
+
 
 
 
