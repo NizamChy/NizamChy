@@ -48,6 +48,10 @@
 </div>
 
 <div align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nizamchy&" alt="nizamchy" />
 </div>
 
