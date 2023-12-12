@@ -44,7 +44,7 @@
     </a> </p>
 
 
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizamchy&theme=dark&layout=compact&align=right&width=40%)](https://github.com/nizamchy/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizamchy&layout=compact)
 
 
 <p align="center">
