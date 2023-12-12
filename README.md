@@ -44,7 +44,10 @@
     </a> </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nizamchy&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizamchy&layout=compact" alt="Top Languages">
+</p>
+
 
 
 <p align="center">
