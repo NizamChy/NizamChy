@@ -54,6 +54,61 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default" alt="GitHub Profile Summary Cards">
 </p>
 
+<!-- GitHub README.md -->
+
+<!-- Common styles for both large and small devices -->
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .container {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 600px; /* Adjust as needed */
+  }
+
+  .container img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
+<!-- Flex layout for large devices -->
+<style>
+  @media screen and (min-width: 600px) {
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+  }
+</style>
+
+<!-- Grid layout for small devices -->
+<style>
+  @media screen and (max-width: 600px) {
+    .container {
+      display: grid;
+      place-items: center;
+      height: 100vh;
+    }
+  }
+</style>
+
+<!-- Content -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizamchy&theme=default&layout=compact" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default" alt="GitHub Profile Summary Cards">
+</p>
+<!-- Common styles for both large and small devices -->
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nizamchy&theme=default" alt="GitHub Streak">
