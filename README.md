@@ -54,19 +54,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default" alt="GitHub Profile Summary Cards">
 </p>
 
-<!-- GitHub README.md -->
-
-<div align="center">
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nizamchy&theme=default&layout=compact)
-
-### GitHub Profile Summary Cards
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default)
-
-</div>
-
-<!-- Common styles for both large and small devices -->
 
 <p align="center">
   <a href="https://git.io/streak-stats">
