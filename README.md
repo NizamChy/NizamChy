@@ -35,7 +35,6 @@
 <a href="https://www.youtube.com/@nizamchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nizamchowdhury" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nizamchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nizamchy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nizam-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nizam-chowdhury" height="30" width="40" /></a>
-<a href="https://discord.gg/nizam.chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nizam.chowdhury" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
