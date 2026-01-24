@@ -55,8 +55,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default" alt="GitHub Profile Summary Cards">
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NizamChy" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=NizamChy)](https://git.io/streak-stats)
+
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nizamchy&theme=default" alt="GitHub Streak">
