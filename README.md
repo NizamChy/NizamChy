@@ -29,6 +29,8 @@
 
 - 📫 How to reach me **nizam.chy.cs@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=NizamChy)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.facebook.com/nizam.chowdhury.cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nizam.chowdhury.cs" height="30" width="40" /></a>
