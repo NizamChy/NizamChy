@@ -28,8 +28,10 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **nizam.chy.cs@gmail.com**
-
+  
+<div align="center"> 
 ![](https://komarev.com/ghpvc/?username=NizamChy)
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
