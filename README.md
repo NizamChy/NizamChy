@@ -1,71 +1,108 @@
- <img src="./Nizam_Chowdhury_Profile.png" alt="GitHub Streak"/>
+<p align="center">
+  <img src="./Nizam_Chowdhury_Profile.png" alt="Md. Nizam Uddin Chowdhury, Software Engineer and Web Developer" width="100%" />
+</p>
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nizam+Chowdhury!;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=36BCF7&lines=Hi+There!+%F0%9F%91%8B;I'm+Nizam+Chowdhury!;Full-Stack+Web+Developer" alt="Hi there! I'm Nizam Chowdhury, Full-Stack Web Developer" />
 </h1>
 
-<h3 align="center">A junior Web Application Developer from Bangladesh.</h3>
- 
-<div align="center"> 
-  <a href="mailto:nizam.chy.cs@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+<h3 align="center">Full-Stack Web Developer from Bangladesh, building with TypeScript, Next.js and Node.js</h3>
 
-  <a href="https://nizam-chy.web.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
-
-
-
-
-- 🔭 I’m currently working on **Full-stack project.**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/NizamChy](https://github.com/NizamChy)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **nizam.chy.cs@gmail.com**
-
-  
-![](https://komarev.com/ghpvc/?username=NizamChy)
-
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/nizam.chowdhury.cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nizam.chowdhury.cs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nizamchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nizamchowdhury" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nizamchy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nizamchy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nizam-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nizam-chowdhury" height="30" width="40" /></a>
+  <a href="mailto:nizam.chy.cs@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
+  <a href="https://nizam-chy.web.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/nizam-chowdhury"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/nizam.chowdhury.cs"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@nizamchowdhury"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://codeforces.com/profile/nizamchy"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    </a> </p>
+## About me
 
+- 🔭 I build full-stack web apps with **Next.js, TypeScript, Express and PostgreSQL (Prisma)**
+- 🧪 I write tests too: **Vitest + Supertest** for APIs and **Playwright** for end-to-end and automation
+- ⚡ Recent work: real-time chat with **Socket.IO**, **Redis** caching and TypeScript monorepos
+- 💬 Ask me about **React / Next.js, REST APIs, Prisma, MERN**
+- 📫 Reach me at **nizam.chy.cs@gmail.com**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizamchy&theme=default&layout=compact" alt="Top Languages">
+## Tech stack
+
+**Frontend**
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,vite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,vite&theme=light" alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, HTML, CSS, Vite" />
+  </picture>
 </p>
 
+**Backend and database**
 
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nizamchy&theme=default" alt="GitHub Profile Summary Cards">
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,redis,firebase&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,redis,firebase&theme=light" alt="Node.js, Express, Prisma, PostgreSQL, MongoDB, Redis, Firebase" />
+  </picture>
 </p>
 
+**Testing, tools and deployment**
 
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vitest,git,github,githubactions,postman,vercel,netlify,figma,vscode,cpp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vitest,git,github,githubactions,postman,vercel,netlify,figma,vscode,cpp&theme=light" alt="Vitest, Git, GitHub, GitHub Actions, Postman, Vercel, Netlify, Figma, VS Code, C++" />
+  </picture>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</p>
+
+## Featured projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Dream Craft Events](https://github.com/NizamChy/dream-craft-events-v2) | Event ticketing, party-supply shop and custom event planning, with one-click demo logins | Next.js, Express, Prisma, PostgreSQL, TypeScript |
+| [Buddy Script](https://github.com/NizamChy/buddy-script) | Social feed with auth, posts, likes, comments and replies | Next.js, Express, PostgreSQL/Prisma, Redis, Playwright |
+| [Nexa Chat](https://github.com/NizamChy/nexa-chat) | Real-time chat app | Next.js, Socket.IO, TanStack Query, TypeScript |
+| [Villa of Summer](https://villa-of-summer.netlify.app/) | Villa rental landing page with city search, date and guest pickers | React, Tailwind CSS, DaisyUI |
+
+## GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NizamChy&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NizamChy&theme=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NizamChy&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NizamChy&theme=github" alt="Repositories per language" />
+  </picture>
+</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nizamchy&theme=default" alt="GitHub Streak">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NizamChy&theme=github-dark-blue&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=NizamChy&theme=default&hide_border=true" alt="GitHub streak" />
+    </picture>
   </a>
 </p>
 
-<img alt="pacman contribution graph" src="https://profile-readme-generator.com/assets/pacman.svg">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NizamChy/NizamChy/output/pacman-contribution-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/NizamChy/NizamChy/output/pacman-contribution-graph.svg" alt="Pac-Man eating my contribution graph" />
+  </picture>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NizamChy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
