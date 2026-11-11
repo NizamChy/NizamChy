@@ -31,7 +31,7 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,vite&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Credux%2Ctailwind%2Chtml%2Ccss%2Cvite&theme=dark" />
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,vite&theme=light" alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, HTML, CSS, Vite" />
   </picture>
 </p>
@@ -40,7 +40,7 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,redis,firebase&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cprisma%2Cpostgres%2Cmongodb%2Credis%2Cfirebase&theme=dark" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,redis,firebase&theme=light" alt="Node.js, Express, Prisma, PostgreSQL, MongoDB, Redis, Firebase" />
   </picture>
 </p>
@@ -49,7 +49,7 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vitest,git,github,githubactions,postman,vercel,netlify,figma,vscode,cpp&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vitest%2Cgit%2Cgithub%2Cgithubactions%2Cpostman%2Cvercel%2Cnetlify%2Cfigma%2Cvscode%2Ccpp&theme=dark" />
     <img src="https://skillicons.dev/icons?i=vitest,git,github,githubactions,postman,vercel,netlify,figma,vscode,cpp&theme=light" alt="Vitest, Git, GitHub, GitHub Actions, Postman, Vercel, Netlify, Figma, VS Code, C++" />
   </picture>
 </p>
