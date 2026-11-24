@@ -22,6 +22,7 @@
 - 🔭 I build full-stack web apps with **Next.js, TypeScript, Express and PostgreSQL (Prisma)**
 - 🧪 I write tests too: **Vitest + Supertest** for APIs and **Playwright** for end-to-end and automation
 - ⚡ Recent work: real-time chat with **Socket.IO**, **Redis** caching and TypeScript monorepos
+- 🛒 Latest: rebuilt **NoTension** as a full-stack Turborepo monorepo with a **Hono + Drizzle** API on **Postgres/PostGIS**, **Better Auth** and one shared **Zod** contract for frontend and backend
 - 🎨 Lately: scroll-driven animation and 3D on the web with **GSAP ScrollTrigger, Motion, Lenis and React Three Fiber**
 - 🤖 AI is part of my daily workflow: **Claude Code** and other AI coding agents for building, reviewing and testing
 - 💬 Ask me about **React / Next.js, REST APIs, Prisma, MERN**
@@ -63,6 +64,11 @@
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=flat-square" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" alt="Turborepo" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
@@ -95,7 +101,7 @@
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [Crunch Lab](https://github.com/NizamChy/crunch-lab) · [live](https://crunch-lab-peach.vercel.app) | Heavily animated chip-brand concept site: 3D falling chips, pinned scroll story, tilt cards, pack builder | Next.js 16, TypeScript, GSAP ScrollTrigger, Motion, Lenis, React Three Fiber |
-| [NoTension](https://github.com/NizamChy/notension-main) · [live](https://notension-main.vercel.app) | Multi-service marketplace for Bangladesh: grocery, medicine, food, fashion, doctors and local services | Next.js 16, Redux Toolkit, TanStack Query, Axios, Google Maps API |
+| [NoTension](https://github.com/NizamChy/notension-main) · [live](https://notension-main.vercel.app) | Multi-service marketplace for Bangladesh: grocery, medicine, food, fashion, doctors and local services, with its own API, admin panel and role-based staff panels | Full-stack TypeScript monorepo (Turborepo): Next.js 16, Zustand, TanStack Query, Hono, Drizzle, PostgreSQL + PostGIS, Better Auth, shared Zod contract |
 | [Dream Craft Events](https://github.com/NizamChy/dream-craft-events-v2) | Event ticketing, party-supply shop and custom event planning, with one-click demo logins | Next.js, Express, Prisma, PostgreSQL, TypeScript |
 | [Buddy Script](https://github.com/NizamChy/buddy-script) | Social feed with auth, posts, likes, comments and replies | Next.js, Express, PostgreSQL/Prisma, Redis, Playwright |
 | [Nexa Chat](https://github.com/NizamChy/nexa-chat) | Real-time chat app | Next.js, Socket.IO, TanStack Query, TypeScript |
